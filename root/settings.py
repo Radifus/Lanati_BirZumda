@@ -164,6 +164,6 @@ REST_FRAMEWORK = {
 
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:5500',
+    'http://localhost:63342',
     'https://your-frontend.vercel.app',
 ]
